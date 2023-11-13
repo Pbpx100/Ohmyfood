@@ -399,7 +399,7 @@ card-card-card {
     display: flex;
     padding: 0px;
     margin: 5px auto;
-    width: 60%;
+    width: 100%;
     transform: translateY(30%);
     animation: slideDown 0.5 forwards;
     animation-duration: 1.5s;
@@ -407,7 +407,6 @@ card-card-card {
     overflow: hidden;
     background-color: rgb(255, 255, 255);
     font-family: Roboto;
-
     font-style: normal;
 }
 
