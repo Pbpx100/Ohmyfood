@@ -276,10 +276,7 @@ card-card-card {
 
 }
 
-.card {
-    cursor: pointer;
 
-}
 
 .card:hover .text {
     width: 60%;
@@ -408,6 +405,7 @@ card-card-card {
     background-color: rgb(255, 255, 255);
     font-family: Roboto;
     font-style: normal;
+    cursor: pointer;
 }
 
 
