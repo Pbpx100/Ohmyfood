@@ -96,6 +96,11 @@ footer * {
     margin-bottom: 0px;
 }
 
+.text-contact p a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+}
 /*media query*/
 @media screen and (max-width: 900px) {
     .cards {
